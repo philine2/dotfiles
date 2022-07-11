@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = philine169@gmail.com
+	name = Philine Oberhansberg
